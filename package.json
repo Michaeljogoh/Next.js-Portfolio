@@ -1,6 +1,7 @@
 {
   "name": "next.js-portfolio",
   "version": "0.1.0",
+  "author":"Michael Jogoh",
   "private": true,
   "scripts": {
     "dev": "next dev",
